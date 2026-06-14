@@ -1,4 +1,4 @@
-# <div align="center">⚡ GABRIEL JUSTINO</div>
+# <div align="center">GABRIEL JUSTINO</div>
 
 <div align="center">
 
