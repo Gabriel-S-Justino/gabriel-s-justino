@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou assistente de Compras (Purchasing) em Fortaleza-CE, focado em transformar processos manuais e planilhas em fluxos automatizados. Atualmente estudo Python, SQL e APIs para evoluir de automação de planilhas para engenharia de dados.
+Sou assistente de Compras (Purchasing) em Fortaleza-CE, com foco em automação de processos e análise de dados aplicada ao dia a dia operacional. Estou em transição para Python, SQL e APIs, construindo ferramentas que vão além de planilhas — incluindo scripts de automação e uma aplicação web para gestão de pedidos.
 
 | | |
 |---|---|
@@ -25,18 +25,18 @@ Sou assistente de Compras (Purchasing) em Fortaleza-CE, focado em transformar pr
 
 ## 🛠 Stack
 
-**Já uso no dia a dia:**
+**Foco principal:**
 
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
-**Em desenvolvimento (uso, mas ainda evoluindo):**
+**Ferramentas complementares (automação de processos legados):**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
 
 ---
 
@@ -44,8 +44,6 @@ Sou assistente de Compras (Purchasing) em Fortaleza-CE, focado em transformar pr
 
 | Status | Skill |
 |--------|-------|
-| ✅ | Google Sheets |
-| ✅ | Excel Online |
 | ✅ | Automação de processos |
 | 🟨 | Python |
 | 🟨 | SQL |
@@ -55,20 +53,22 @@ Sou assistente de Compras (Purchasing) em Fortaleza-CE, focado em transformar pr
 | ⬜ | Engenharia de Dados |
 | ⬜ | Cloud (AWS/GCP) |
 
+*Base: Google Sheets e Excel Online — usados como ferramenta de automação, não como foco de carreira.*
+
 ---
 
 ## 🎯 Projetos
 
-### 💰 Automação de Cotação de Preços (Mapa de Cotação)
-Script em Google Apps Script que automatiza a comparação de preços entre fornecedores em planilhas — abas por fornecedor, tabelas nomeadas e normalização de referências de itens.
-🔗 `[link do repositório aqui]`
-
 ### ⚙️ Sistema de Gestão de Pedidos
-Aplicação Flask/Python para gestão de pedidos e logística, com notificações automáticas por e-mail (atraso, prazo, confirmação de entrega).
+Aplicação Flask/Python para gestão de pedidos e logística, com autenticação, banco SQLite e notificações automáticas por e-mail (atraso, prazo, confirmação de entrega).
 🔗 `[link do repositório aqui]`
 
 ### 🧹 Padronização de Dados Operacionais
-Scripts para transformar dados brutos de operações em planilhas estruturadas e prontas para análise.
+Scripts em Python para transformar dados brutos de operações em datasets estruturados e prontos para análise.
+🔗 `[link do repositório aqui]`
+
+### 💰 Automação de Cotação de Fornecedores
+Script (Google Apps Script) que automatiza a comparação de preços entre fornecedores — abas por fornecedor, tabelas nomeadas e normalização de referências de itens.
 🔗 `[link do repositório aqui]`
 
 > 💡 *Substitua os placeholders acima pelos links reais dos repositórios (públicos ou com README próprio explicando o projeto, mesmo que o código seja privado). Um projeto sem link vira apenas uma afirmação, não uma prova.*
