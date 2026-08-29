@@ -2,9 +2,7 @@
 
 # GABRIEL JUSTINO
 
-### Data • Automation • Process Intelligence
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Transforming+Processes+Into+Solutions;Data+Driven+Decision+Making;Automation+%7C+Python+%7C+Analytics;Building+Operational+Intelligence" alt="Typing animation" />
+### Desenvolvedor em formação | React • Python • TypeScript
 
 <p>
   <a href="https://github.com/Gabriel-S-Justino">
@@ -21,127 +19,87 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na área de **Compras e Operações**, com foco na aplicação de tecnologia para automação de processos, organização de dados e melhoria operacional.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software.
 
-Estou direcionando minha formação para **desenvolvimento de software, dados e automação**, construindo aplicações e ferramentas que substituem tarefas manuais e transformam processos operacionais em soluções mais estruturadas.
+Atualmente estou me especializando em **React, TypeScript e Python**, desenvolvendo aplicações com foco em organização, automação de processos e resolução de problemas reais.
 
-Meu foco atual está em:
+Também possuo experiência profissional na área de **Compras e Operações**, o que me permite compreender problemas de negócio e transformá-los em soluções utilizando tecnologia.
 
-* 🐍 Python
-* 🗄️ SQL e bancos de dados
-* 🔌 APIs e integração entre sistemas
-* ⚙️ Automação de processos
-* 📊 Tratamento e análise de dados
-* 🌐 Desenvolvimento de aplicações web
+### 🎯 Foco atual
 
-|                        |                                    |
-| ---------------------- | ---------------------------------- |
-| 📍 Localização         | Fortaleza - CE, Brasil             |
-| 💼 Área atual          | Compras / Operações                |
-| 🎯 Foco profissional   | Automação, Dados e Desenvolvimento |
-| 🐍 Linguagem principal | Python                             |
-| 🗄️ Dados              | SQL / SQLite / MySQL               |
-| 🌐 Desenvolvimento     | Flask / Web / APIs                 |
+- ⚛️ React
+- 🔷 TypeScript
+- 🐍 Python
+- 🌐 Desenvolvimento Web
+- 🔌 APIs e integração entre sistemas
+- 🗄️ Banco de dados
+- 🔧 Git e GitHub
 
 ---
 
-## 🛠️ Stack
-
-### 💻 Desenvolvimento
+## 🛠️ Tecnologias
 
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
-### 📊 Dados e automação
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
-</p>
-
-> Ferramentas como Google Sheets e Excel fazem parte da minha experiência operacional, principalmente como meios de automação e organização de processos.
-
----
-
-## 🎯 Atualmente estudando
-
-| Status | Tecnologia / Área   |
-| :----: | ------------------- |
-|   🟢   | Python              |
-|   🟢   | Git / GitHub        |
-|   🟢   | Flask               |
-|   🟢   | SQL                 |
-|   🟡   | APIs                |
-|   🟡   | Pandas              |
-|   🟡   | MySQL               |
-|    ⬜   | FastAPI             |
-|    ⬜   | Docker              |
-|    ⬜   | Linux               |
-|    ⬜   | Engenharia de Dados |
-|    ⬜   | Cloud / AWS / GCP   |
-
-**Legenda:** 🟢 Em uso • 🟡 Em desenvolvimento • ⬜ Próximo passo
 
 ---
 
 ## 🚀 Projetos
 
-### ⚙️ Sistema de Gestão de Pedidos
+### 🛠️ CMMS — Sistema de Gestão de Manutenção
 
-Aplicação web desenvolvida com **Python e Flask** para gerenciamento de pedidos e acompanhamento de processos logísticos.
+Sistema para controle e monitoramento de manutenções de equipamentos, ativos e veiculos.
 
-**Principais recursos:**
+**Tecnologias:**
 
-* Autenticação de usuários
-* Banco de dados SQLite
-* Controle de pedidos
-* Acompanhamento de prazos
-* Notificações automáticas por e-mail
-* Organização de informações operacionais
+`React` `TypeScript` `Python` `API` `Banco de Dados`
 
-🔗 `[Link do repositório]`
+Projeto em desenvolvimento.
 
 ---
 
-### 🧹 Padronização de Dados Operacionais
+### 📦 Sistema de Gestão de Pedidos
 
-Conjunto de scripts desenvolvidos em **Python** para transformar dados operacionais brutos em estruturas padronizadas e preparadas para análise.
+Aplicação web desenvolvida para gerenciamento de pedidos e acompanhamento de processos operacionais.
 
-**Objetivos:**
+**Tecnologias:**
 
-* Reduzir tratamento manual
-* Padronizar informações
-* Automatizar etapas repetitivas
-* Preparar dados para análises posteriores
+`Python` `Flask` `SQLite` `JavaScript`
 
-🔗 `[Link do repositório]`
+Principais funcionalidades:
 
----
-
-### 💰 Automação de Cotação de Fornecedores
-
-Automação desenvolvida com **Google Apps Script** para facilitar a comparação de preços entre fornecedores.
-
-**Principais recursos:**
-
-* Organização das informações por fornecedor
-* Comparação de preços
-* Normalização de referências
-* Estruturação automática das tabelas
-* Redução de tarefas manuais
-
-🔗 `[Link do repositório]`
+- Autenticação de usuários
+- Controle de pedidos
+- Acompanhamento de processos
+- Gerenciamento de informações
+- Automação de tarefas
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+
+Atualmente cursando ADS, com estudos voltados para:
+
+- Programação
+- Estruturas de dados
+- Banco de dados
+- Engenharia de software
+- Desenvolvimento web
+- APIs
+- Sistemas e arquitetura de software
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -150,59 +108,10 @@ Automação desenvolvida com **Google Apps Script** para facilitar a comparaçã
 </a>
 
 <a href="https://github.com/Gabriel-S-Justino">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-S-Justino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-S-Justino&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Gabriel-S-Justino&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## 🧭 Direção profissional
-
-Meu objetivo é unir **conhecimento de negócio + tecnologia** para construir soluções que tenham aplicação prática.
-
-```text
-Problema operacional
-        ↓
-Entendimento do processo
-        ↓
-Organização dos dados
-        ↓
-Automação
-        ↓
-Software
-        ↓
-Informação para decisão
-```
-
-A tecnologia é o meio.
-
-**O objetivo é resolver problemas.**
-
----
-
-## 📚 Formação e desenvolvimento
-
-Atualmente direcionando minha formação para **Análise e Desenvolvimento de Sistemas**, aprofundando conhecimentos em:
-
-* Algoritmos e programação
-* Programação orientada a objetos
-* Banco de dados
-* Engenharia de software
-* Desenvolvimento web
-* APIs e serviços
-* Sistemas distribuídos
-* Inteligência artificial
-* Redes e infraestrutura
-* Testes e qualidade de software
 
 ---
 
@@ -217,13 +126,5 @@ Atualmente direcionando minha formação para **Análise e Desenvolvimento de Si
 <a href="https://www.linkedin.com/in/gabriel-justino-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Technology is not the goal. Solving problems is."
 
 </div>
