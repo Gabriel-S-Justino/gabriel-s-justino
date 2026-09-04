@@ -4,14 +4,9 @@
 
 ### Desenvolvedor em formação | React • Python • TypeScript
 
-<p>
-  <a href="https://github.com/Gabriel-S-Justino">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-justino-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Interessado em **desenvolvimento full-stack, arquitetura de aplicações, automação e bancos de dados**.
+
+Transformando ideias em projetos funcionais enquanto aprofundo meus conhecimentos em desenvolvimento de software.
 
 </div>
 
