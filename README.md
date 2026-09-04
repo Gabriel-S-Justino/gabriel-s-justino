@@ -119,12 +119,16 @@ Atualmente cursando ADS, com estudos voltados para:
 
 <div align="center">
 
-<a href="https://github.com/Gabriel-S-Justino">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="mailto:SEU_EMAIL@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-justino-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://discord.com/users/SEU_ID_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 </div>
