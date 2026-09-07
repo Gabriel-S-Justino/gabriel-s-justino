@@ -25,7 +25,7 @@ Também possuo experiência profissional na área de **Compras e Operações**, 
 - ⚛️ React
 - 🔷 TypeScript
 - 🐍 Python
-- 🌐 Desenvolvimento Web
+- 🌐 Desenvolvimento Web e mobile
 - 🔌 APIs e integração entre sistemas
 - 🗄️ Banco de dados
 - 🔧 Git e GitHub
