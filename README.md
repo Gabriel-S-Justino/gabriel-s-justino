@@ -15,7 +15,6 @@ Hoje transformo essa vivência operacional em <b>software</b>: sistemas que orga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-justino-dev)
 [![Outlook](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabrieljustino.dev@outlook.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-S-Justino)
 
 </div>
 
