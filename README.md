@@ -88,8 +88,8 @@ Aplicação web para registrar pedidos e acompanhar etapas operacionais, com aut
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Gabriel-S-Justino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Gabriel-S-Justino&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Gabriel-S-Justino&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-S-Justino&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
