@@ -23,7 +23,7 @@ Hoje transformo essa vivência operacional em <b>software</b>: sistemas que orga
 
 ```yaml
 frontend:    "Aplicações web e mobile com React, React Native e TypeScript"
-backend:     "Automações com Python"
+backend:     "Conhecimento básico em APIs e utomações com Python"
 dados:       "Conhecimento básico em modelagem e bancos de dados relacionais"
 integracao:  "Integração de sistemas e melhoria de processos operacionais"
 ```
