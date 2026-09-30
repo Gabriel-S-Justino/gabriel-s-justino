@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou o Gabriel </h1>
 
 <p align="center">
 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, com background em Compras e Operações.<br/>
@@ -20,7 +20,7 @@ Hoje transformo essa vivência operacional em <b>software</b>: sistemas que orga
 
 ---
 
-### 🎯 Foco
+### Foco
 
 ```yaml
 frontend:    "Aplicações web e mobile com React, React Native e TypeScript"
@@ -31,7 +31,7 @@ integracao:  "Integração de sistemas e melhoria de processos operacionais"
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ integracao:  "Integração de sistemas e melhoria de processos operacionais"
 
 ---
 
-### 🚀 Projetos em desenvolvimento
+### Projetos em desenvolvimento
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ Sistema para acompanhar manutenção de equipamentos e ativos industriais, com m
 </td>
 <td width="50%" valign="top">
 
-#### 📦 Gestão de Pedidos
+#### Gestão de Pedidos
 Aplicação web para registrar pedidos e acompanhar etapas operacionais, com autenticação de usuários e automação de tarefas recorrentes — nascida da experiência direta em rotinas de Compras.
 
 `Python` `Flask` `SQLite` `JavaScript`
@@ -77,14 +77,14 @@ Aplicação web para registrar pedidos e acompanhar etapas operacionais, com aut
 
 ---
 
-### 🎓 Formação
+### Formação
 
 **Análise e Desenvolvimento de Sistemas** — em curso
 > Estruturas de dados · Bancos de dados · Engenharia de software · Desenvolvimento web · APIs · Arquitetura de sistemas
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
