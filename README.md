@@ -63,14 +63,6 @@ Sistema para acompanhar manutenção de equipamentos e ativos industriais, com m
 `React Native` `Expo` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
 
 </td>
-<td width="50%" valign="top">
-
-#### Gestão de Pedidos
-Aplicação web para registrar pedidos e acompanhar etapas operacionais, com autenticação de usuários e automação de tarefas recorrentes nascida da experiência direta em rotinas de Compras.
-
-`Python` `Flask` `SQLite` `JavaScript`
-
-</td>
 </tr>
 </table>
 
