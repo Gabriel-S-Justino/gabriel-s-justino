@@ -34,7 +34,7 @@ integracao:  "Integração de sistemas e melhoria de processos operacionais"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,py,postgres,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,py,postgres,git,github,docker&theme=dark" />
 
 </div>
 
