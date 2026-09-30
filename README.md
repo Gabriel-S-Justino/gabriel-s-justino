@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Gabriel+Justino;Analise+e+Desenvolvimento+de+Sistemas;Transformando+rotinas+em+sistemas;React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Gestão+de+Projetos;Analise+e+Desenvolvimento+de+Sistemas;Transformando+rotinas+em+sistemas;React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 
 </div>
 
