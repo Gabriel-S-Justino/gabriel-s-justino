@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Gestão+de+Projetos;Analise+e+Desenvolvimento+de+Sistemas;Transformando+rotinas+em+sistemas;React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Gest%C3%A3o+de+Projetos;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+rotinas+em+sistemas;React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Olá, eu sou o Gabriel </h1>
