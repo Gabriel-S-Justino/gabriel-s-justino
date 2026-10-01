@@ -70,8 +70,10 @@ Sistema para acompanhar manutenção de equipamentos e ativos industriais, com m
 
 ### Formação
 
-**Análise e Desenvolvimento de Sistemas** — em curso
-> Estruturas de dados · Bancos de dados · Engenharia de software · Desenvolvimento web · APIs · Arquitetura de sistemas
+**Análise e Desenvolvimento de Sistemas**
+*Graduação em andamento*
+
+Programação | Banco de dados | Engenharia de software | Desenvolvimento web | APIs
 
 ---
 
