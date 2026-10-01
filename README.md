@@ -57,7 +57,7 @@ integracao:  "Integração de sistemas e melhoria de processos operacionais"
 <tr>
 <td width="50%" valign="top">
 
-#### 🔧 CMMS — Gestão de Manutenção
+####  CMMS — Gestão de Manutenção
 Sistema para acompanhar manutenção de equipamentos e ativos industriais, com multi-tenant, RBAC e trilha de auditoria. Centraliza registros, monitora atividades e apoia a operação de manutenção de ponta a ponta.
 
 `React Native` `Expo` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
