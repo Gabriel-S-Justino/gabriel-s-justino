@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel S. Justino — Desenvolvimento de sistemas</title>
+  <desc id="desc">Capa azul de um caderno de operações. Uma rota em papel quadriculado conecta uma caixa a uma marca de entrega.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#bcc9cc" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="224" rx="16" fill="#122043"/>
+  <path d="M670 0h274q16 0 16 16v192q0 16-16 16H619Z" fill="#f5efdd"/>
+  <path d="M670 0h274q16 0 16 16v192q0 16-16 16H619Z" fill="url(#grid)"/>
+  <g font-family="DejaVu Sans,sans-serif">
+    <text x="44" y="53" fill="#aec9ff" font-size="15" letter-spacing="3">CADERNO DE OPERAÇÕES</text>
+    <text x="41" y="127" fill="#fffaf0" font-size="56" font-weight="bold">Gabriel S. Justino</text>
+    <text x="45" y="176" fill="#cfdef6" font-size="26">Desenvolvimento de sistemas</text>
+  </g>
+  <g stroke="#214471" stroke-linejoin="round" fill="none">
+    <path d="M696 79l30-15 30 15-30 16z" fill="#ffe2a6" stroke-width="3"/>
+    <path d="M696 79v32l30 16 30-16V79l-30 16z" fill="#ffbf63" stroke-width="3"/>
+    <path d="M726 95v32m-15-55 30 15" stroke-width="3"/>
+    <path d="M730 142v14q0 9 9 9h60q10 0 10-10v-43q0-10 10-10h39" stroke-width="4" stroke-dasharray="7 5"/>
+    <circle cx="885" cy="102" r="24" fill="#214471"/>
+    <path d="m873 103 8 8 16-19" stroke="#fffaf0" stroke-width="4"/>
+  </g>
+</svg>
