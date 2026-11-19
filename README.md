@@ -48,10 +48,10 @@ Estudo **Análise e Desenvolvimento de Sistemas**. Gosto tanto de investigar o q
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/atlas/telemetria.png">
-  <img width="100%" src="assets/atlas/telemetria.gif" alt="Calendário tridimensional com 146 contribuições no período consultado em 19 de novembro de 2026. Cada coluna representa um dia.">
+  <img width="100%" src="assets/atlas/telemetria.gif" alt="Calendário tridimensional de contribuições dos últimos doze meses, atualizado diariamente. Cada coluna representa um dia.">
 </picture>
 
-Quanto mais alta a coluna, mais contribuições naquele dia. Registro de **19 de novembro de 2026**. [Ver atividade atual no GitHub ↗](https://github.com/Gabriel-S-Justino?tab=overview#js-contribution-activity)
+Quanto mais alta a coluna, mais contribuições naquele dia. O contador e as colunas são atualizados diariamente a partir do calendário do GitHub. [Ver atividade atual no GitHub ↗](https://github.com/Gabriel-S-Justino?tab=overview#js-contribution-activity)
 
 ![Contato com Gabriel S. Justino](assets/atlas/contato.png)
 
