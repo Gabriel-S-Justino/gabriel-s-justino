@@ -1,35 +1,61 @@
-![Gabriel S. Justino · Desenvolvimento de sistemas. Um planeta em azul elétrico une software e astronomia.](assets/orbita.svg)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/observatorio.png">
+  <img width="100%" src="assets/observatorio.gif" alt="Gabriel S. Justino · Desenvolvimento de sistemas. Um satélite percorre a órbita da Terra iluminada em azul elétrico.">
+</picture>
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-justino-dev) · [E-mail](mailto:gabrieljustino.dev@outlook.com.br)
+<p align="center">
+  <a href="https://www.gabrieljustino.com.br/"><b>Portfólio</b></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-justino-dev">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:gabrieljustino.dev@outlook.com.br">E-mail</a>
+</p>
 
-## Sobre mim
-
-Sou Gabriel, estudante de **Análise e Desenvolvimento de Sistemas**. Dois projetos mostram como exploro meu interesse pelo espaço: no FIREWATCHER, trabalhei com dados de satélites que observam a Terra. No Space Mission Architect, desenvolvo uma simulação em que você monta a própria sonda.
-
-## Em destaque · FIREWATCHER
+## FIREWATCHER
 
 **Engenharia de dados · Equipe Astro Boys · NASA Space Apps Challenge 2026**
 
-Quando um mapa mostra mais focos de calor em um mês, o que mudou no solo e o que mudou na forma de observar? Os sensores MODIS e VIIRS detectam calor em resoluções diferentes. Para comparar regiões e períodos, a equipe precisou levar essa diferença em conta.
+Se um sensor registra mais focos de calor que outro, como saber quanto dessa diferença vem da resolução de cada instrumento? Essa foi uma das questões que enfrentamos ao reunir observações dos sensores **MODIS e VIIRS**. Na equipe Astro Boys, minha contribuição foi pesquisar e documentar as fontes de dados do **NASA FIRMS**.
 
-**Minha contribuição** foi pesquisar e documentar as fontes do NASA FIRMS para os dois sensores. No painel que construímos em equipe, você pode selecionar uma região, explorar as detecções no mapa e comparar a atividade de cada mês com a mediana histórica daquela área.
+<a href="https://astro-dashboard-301238386836.us-central1.run.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/firewatcher.png">
+    <img width="100%" src="assets/firewatcher.gif" alt="Tour do FIREWATCHER com três capturas reais do painel: visão geral, detecções por sensor e anomalias em relação à mediana histórica.">
+  </picture>
+</a>
 
-[Abrir o FIREWATCHER](https://astro-dashboard-301238386836.us-central1.run.app/) · [Explorar o código](https://github.com/1kaliel/astro-boys) · [Ler a metodologia](https://github.com/1kaliel/astro-boys/blob/main/docs/methodology.md)
+No painel, escolha uma região e compare um mês com a mediana histórica daquela área. O calendário ajuda a perceber padrões sazonais que um mapa isolado esconderia.
 
-## Também em órbita · Space Mission Architect
+**[Abrir o painel](https://astro-dashboard-301238386836.us-central1.run.app/)** · [Explorar o código](https://github.com/1kaliel/astro-boys) · [Ler a metodologia](https://github.com/1kaliel/astro-boys/blob/main/docs/methodology.md)
 
-Neste simulador educacional 3D, você escolhe os instrumentos de uma sonda e planeja uma missão à órbita terrestre, à Lua ou a Júpiter. Adicionar um instrumento aumenta a massa que o motor precisa acelerar e muda a margem de combustível para as manobras.
+## Sobre mim
 
-[Conhecer o simulador](https://github.com/Gabriel-S-Justino/SpaceMissionArchitect) · [Ver os modelos físicos](https://github.com/Gabriel-S-Justino/SpaceMissionArchitect/blob/Main/docs/physics-model.md)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/radar.png">
+  <img width="100%" src="assets/radar.gif" alt="Gabriel Justino, estudante de Análise e Desenvolvimento de Sistemas com interesse em simulação 3D e dados de satélite.">
+</picture>
 
-## Ferramentas que uso
+Gosto de explorar o espaço pelos dois lados da tela. No FIREWATCHER, começo com observações que já chegaram à Terra. No **Space Mission Architect**, começo no hangar e experimento o que acontece com a trajetória quando acrescento um instrumento à sonda.
 
-| Área | Aplicação nos meus projetos |
-| --- | --- |
-| Dados de observação da Terra | No **FIREWATCHER**, pesquisei as fontes MODIS e VIIRS distribuídas pelo NASA FIRMS. |
-| Gráficos e interfaces | **Babylon.js** renderiza as cenas 3D. **React e TypeScript** dão forma às telas de planejamento da missão. |
-| APIs e dados | Uso **Python, FastAPI e PostgreSQL** no backend do simulador e no sistema de manutenção. |
-| Aplicativos móveis | Uso **React Native e Expo** no [CMMS](https://github.com/Gabriel-S-Justino/CMMS), onde cada equipe acompanha seus equipamentos e ordens de serviço. |
-| Testes | O simulador reúne testes com **Vitest** no frontend, **pytest** na API e **Playwright** nos fluxos de ponta a ponta. |
+## Outros projetos
 
-Quer conversar sobre dados de satélite ou simulações no navegador? [Vamos conversar no LinkedIn](https://www.linkedin.com/in/gabriel-justino-dev).
+<a href="https://github.com/Gabriel-S-Justino/SpaceMissionArchitect"><img width="49%" src="assets/sonda.png" alt="Space Mission Architect, simulador educacional 3D em Babylon.js e TypeScript."></a>
+<a href="https://github.com/Gabriel-S-Justino/CMMS"><img width="49%" src="assets/cmms.png" alt="CMMS, aplicativo de manutenção em React Native e FastAPI."></a>
+
+- **Space Mission Architect** permite montar uma sonda e planejar missões à órbita terrestre, à Lua ou a Júpiter. A massa dos instrumentos entra no cálculo de combustível de cada manobra. [Ver os modelos físicos](https://github.com/Gabriel-S-Justino/SpaceMissionArchitect/blob/Main/docs/physics-model.md)
+- **CMMS** reúne o histórico dos equipamentos, as ordens de serviço e o planejamento de manutenção preventiva em um aplicativo móvel. [Ver o projeto](https://github.com/Gabriel-S-Justino/CMMS)
+
+## Tecnologias
+
+<img src="assets/ferramentas.svg" width="329" alt="TypeScript, React, Python, FastAPI, PostgreSQL e Docker">
+
+Uso **React e TypeScript** nas interfaces e **Babylon.js** nas cenas 3D. No backend do simulador, uso **Python, FastAPI e PostgreSQL**, com **Docker Compose** para o ambiente local. Os testes cobrem as regras da simulação, a API e os fluxos no navegador com **Vitest, pytest e Playwright**.
+
+## Atividade no GitHub
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atividade.png">
+  <img width="100%" src="assets/atividade.gif" alt="Calendário de contribuições de Gabriel entre novembro de 2025 e novembro de 2026, com 142 contribuições na consulta de 19 de novembro de 2026.">
+</picture>
+
+Registro de 19 de novembro de 2026. [Consultar o calendário atual no GitHub](https://github.com/Gabriel-S-Justino?tab=overview#js-contribution-activity)
+
+<sub>Terra da capa: NASA Earth Observatory, Blue Marble · Capturas do FIREWATCHER: equipe Astro Boys · Ícones: Skill Icons.</sub>
