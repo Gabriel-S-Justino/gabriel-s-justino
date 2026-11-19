@@ -1,97 +1,13 @@
-<div align="center">
+# Gabriel S. Justino
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Gest%C3%A3o+de+Projetos;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+rotinas+em+sistemas;React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-</div>
+**Quando chega o pedido? Quem revisou o preço?** Minha experiência em Compras e Operações orienta os sistemas que desenvolvo. Estudo Análise e Desenvolvimento de Sistemas e gosto de trabalhar com perguntas concretas como essas.
 
-<h1 align="center">Olá, eu sou o Gabriel </h1>
+## Projetos
 
-<p align="center">
-Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, com background em Compras e Operações.<br/>
-Hoje transformo essa vivência operacional em <b>software</b>: sistemas que organizam, automatizam e dão visibilidade a processos que antes rodavam na planilha e no "boca a boca".
-</p>
+- **[Controle de Pedidos](https://github.com/Gabriel-S-Justino/Controle-de-Pedidos)** · Do pedido de compra à entrega, reúne a previsão de chegada, a transportadora e os documentos em um só lugar. `Python` `Flask` `SQLite`
+- **[PriceFlow](https://github.com/Gabriel-S-Justino/PriceFlow)** · Levei as regras de uma planilha de preços para uma aplicação em que operadores preparam lotes e gerentes revisam os valores. `Python` `SQLite`
+- **[CMMS](https://github.com/Gabriel-S-Justino/CMMS)** · Permite consultar o histórico de cada equipamento, acompanhar ordens de serviço e programar a próxima manutenção. `React Native` `TypeScript` `FastAPI` `PostgreSQL`
 
-<div align="center">
+![Fluxo de revisão de um lote no PriceFlow. O lote passa por rascunho, análise e finalização.](assets/priceflow.gif)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-justino-dev)
-[![Outlook](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabrieljustino.dev@outlook.com.br)
-
-</div>
-
----
-
-### Foco
-
-```yaml
-frontend:    "Aplicações web e mobile com React, React Native e TypeScript"
-backend:     "Conhecimento básico em APIs e utomações com Python"
-dados:       "Conhecimento básico em modelagem e bancos de dados relacionais"
-integracao:  "Integração de sistemas e melhoria de processos operacionais"
-```
-
----
-
-### Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,py,postgres,git,github,docker&theme=dark" />
-
-</div>
-
-<div align="center">
-
-| Camada | Tecnologias |
-|:--|:--|
-| **Front-end** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Back-end** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Dados** |![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-</div>
-
----
-
-### Projetos em desenvolvimento
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-####  CMMS — Gestão de Manutenção
-Sistema para acompanhar manutenção de equipamentos e ativos industriais, com multi-tenant, RBAC e trilha de auditoria. Centraliza registros, monitora atividades e apoia a operação de manutenção de ponta a ponta.
-
-`React Native` `Expo` `TypeScript` `FastAPI` `PostgreSQL` `Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-### Formação
-
-**Análise e Desenvolvimento de Sistemas**
-*Graduação em andamento*
-
-Programação | Banco de dados | Engenharia de software | Desenvolvimento web | APIs
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Gabriel-S-Justino&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-S-Justino&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 Vamos conversar sobre software, dados ou operações? Me chama no
-[LinkedIn](https://www.linkedin.com/in/gabriel-justino-dev) ou por
-[e-mail](mailto:gabrieljustino.dev@outlook.com.br).
-
-</div>
+**Contato** · [LinkedIn](https://www.linkedin.com/in/gabriel-justino-dev) · [E-mail](mailto:gabrieljustino.dev@outlook.com.br)
