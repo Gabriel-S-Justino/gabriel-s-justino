@@ -1,61 +1,60 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/observatorio.png">
-  <img width="100%" src="assets/observatorio.gif" alt="Gabriel S. Justino · Desenvolvimento de sistemas. Um satélite percorre a órbita da Terra iluminada em azul elétrico.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/atlas/capa-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/atlas/capa-mobile.gif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atlas/capa.png">
+  <img width="100%" src="assets/atlas/capa.gif" alt="Atlas orbital de Gabriel S. Justino. Desenvolvimento de sistemas, dados de satélite e simulação 3D.">
 </picture>
 
 <p align="center">
-  <a href="https://www.gabrieljustino.com.br/"><b>Portfólio</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-justino-dev">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:gabrieljustino.dev@outlook.com.br">E-mail</a>
+  <a href="https://www.gabrieljustino.com.br/"><img src="assets/atlas/portfolio.png" width="121" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/gabriel-justino-dev"><img src="assets/atlas/linkedin.png" width="121" alt="LinkedIn"></a>
+  <a href="mailto:gabrieljustino.dev@outlook.com.br"><img src="assets/atlas/email.png" width="121" alt="E-mail"></a>
 </p>
 
-## FIREWATCHER
-
-**Engenharia de dados · Equipe Astro Boys · NASA Space Apps Challenge 2026**
-
-Se um sensor registra mais focos de calor que outro, como saber quanto dessa diferença vem da resolução de cada instrumento? Essa foi uma das questões que enfrentamos ao reunir observações dos sensores **MODIS e VIIRS**. Na equipe Astro Boys, minha contribuição foi pesquisar e documentar as fontes de dados do **NASA FIRMS**.
-
-<a href="https://astro-dashboard-301238386836.us-central1.run.app/">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/firewatcher.png">
-    <img width="100%" src="assets/firewatcher.gif" alt="Tour do FIREWATCHER com três capturas reais do painel: visão geral, detecções por sensor e anomalias em relação à mediana histórica.">
-  </picture>
-</a>
-
-No painel, escolha uma região e compare um mês com a mediana histórica daquela área. O calendário ajuda a perceber padrões sazonais que um mapa isolado esconderia.
-
-**[Abrir o painel](https://astro-dashboard-301238386836.us-central1.run.app/)** · [Explorar o código](https://github.com/1kaliel/astro-boys) · [Ler a metodologia](https://github.com/1kaliel/astro-boys/blob/main/docs/methodology.md)
-
-## Sobre mim
-
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/radar.png">
-  <img width="100%" src="assets/radar.gif" alt="Gabriel Justino, estudante de Análise e Desenvolvimento de Sistemas com interesse em simulação 3D e dados de satélite.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/atlas/firewatcher-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/atlas/firewatcher-mobile.gif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atlas/firewatcher.png">
+  <img width="100%" src="assets/atlas/firewatcher.gif" alt="FIREWATCHER, da equipe Astro Boys. Tour por três capturas reais do painel: mapa de focos de calor, séries por sensor e anomalias.">
 </picture>
 
-Gosto de explorar o espaço pelos dois lados da tela. No FIREWATCHER, começo com observações que já chegaram à Terra. No **Space Mission Architect**, começo no hangar e experimento o que acontece com a trajetória quando acrescento um instrumento à sonda.
+**Como comparar duas décadas de focos de calor se os sensores mudaram nesse intervalo?** No NASA Space Apps Challenge 2026, participei da equipe **Astro Boys** como engenheiro de dados. Pesquisei e documentei as fontes do **NASA FIRMS** usadas para comparar as observações dos sensores MODIS e VIIRS.
 
-## Outros projetos
+No FIREWATCHER, escolha uma região no mapa e abra o calendário. Você pode comparar a atividade de um mês com a mediana histórica daquela área e voltar às detecções de cada sensor para investigar a diferença.
 
-<a href="https://github.com/Gabriel-S-Justino/SpaceMissionArchitect"><img width="49%" src="assets/sonda.png" alt="Space Mission Architect, simulador educacional 3D em Babylon.js e TypeScript."></a>
-<a href="https://github.com/Gabriel-S-Justino/CMMS"><img width="49%" src="assets/cmms.png" alt="CMMS, aplicativo de manutenção em React Native e FastAPI."></a>
+**[Abrir o FIREWATCHER ↗](https://astro-dashboard-301238386836.us-central1.run.app/)**　·　[Repositório](https://github.com/1kaliel/astro-boys)　·　[Metodologia](https://github.com/1kaliel/astro-boys/blob/main/docs/methodology.md)
 
-- **Space Mission Architect** permite montar uma sonda e planejar missões à órbita terrestre, à Lua ou a Júpiter. A massa dos instrumentos entra no cálculo de combustível de cada manobra. [Ver os modelos físicos](https://github.com/Gabriel-S-Justino/SpaceMissionArchitect/blob/Main/docs/physics-model.md)
-- **CMMS** reúne o histórico dos equipamentos, as ordens de serviço e o planejamento de manutenção preventiva em um aplicativo móvel. [Ver o projeto](https://github.com/Gabriel-S-Justino/CMMS)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atlas/crux.png">
+  <img width="100%" src="assets/atlas/crux.gif" alt="Carta celeste de Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Ao lado da formação e dos interesses, aparecem Acrux e Mimosa no Cruzeiro do Sul.">
+</picture>
 
-## Tecnologias
+Estudo **Análise e Desenvolvimento de Sistemas**. Gosto tanto de investigar o que um satélite observou quanto de escrever o código que simula seu voo. No **Space Mission Architect**, por exemplo, acrescentar um instrumento à sonda muda a massa que o motor precisa acelerar. Dá para experimentar essa escolha antes de partir para Júpiter.
+
+### Projetos
+
+<a href="https://github.com/Gabriel-S-Justino/SpaceMissionArchitect"><img width="420" src="assets/atlas/sonda.png" alt="Space Mission Architect. Simulador educacional 3D de missões à Terra, à Lua e a Júpiter."></a>
+<a href="https://github.com/Gabriel-S-Justino/CMMS"><img width="420" src="assets/atlas/cmms.png" alt="CMMS. Aplicativo para consultar equipamentos, abrir ordens de serviço e planejar manutenção."></a>
+
+### Instrumentos de desenvolvimento
 
 <img src="assets/ferramentas.svg" width="329" alt="TypeScript, React, Python, FastAPI, PostgreSQL e Docker">
 
-Uso **React e TypeScript** nas interfaces e **Babylon.js** nas cenas 3D. No backend do simulador, uso **Python, FastAPI e PostgreSQL**, com **Docker Compose** para o ambiente local. Os testes cobrem as regras da simulação, a API e os fluxos no navegador com **Vitest, pytest e Playwright**.
-
-## Atividade no GitHub
+| Onde uso | Ferramentas |
+| --- | --- |
+| **Simulação no navegador** · cenas 3D e telas de planejamento da missão | Babylon.js, React e TypeScript |
+| **APIs e persistência** · dados do simulador e registros do CMMS | Python, FastAPI e PostgreSQL |
+| **Mobile e testes** · telas do CMMS e verificação do simulador | React Native e Expo · Vitest, pytest e Playwright |
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atividade.png">
-  <img width="100%" src="assets/atividade.gif" alt="Calendário de contribuições de Gabriel entre novembro de 2025 e novembro de 2026, com 142 contribuições na consulta de 19 de novembro de 2026.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/atlas/telemetria.png">
+  <img width="100%" src="assets/atlas/telemetria.gif" alt="Calendário tridimensional com 146 contribuições no período consultado em 19 de novembro de 2026. Cada coluna representa um dia.">
 </picture>
 
-Registro de 19 de novembro de 2026. [Consultar o calendário atual no GitHub](https://github.com/Gabriel-S-Justino?tab=overview#js-contribution-activity)
+Quanto mais alta a coluna, mais contribuições naquele dia. Registro de **19 de novembro de 2026**. [Ver atividade atual no GitHub ↗](https://github.com/Gabriel-S-Justino?tab=overview#js-contribution-activity)
 
-<sub>Terra da capa: NASA Earth Observatory, Blue Marble · Capturas do FIREWATCHER: equipe Astro Boys · Ícones: Skill Icons.</sub>
+![Contato com Gabriel S. Justino](assets/atlas/contato.png)
+
+Para conversar sobre um projeto ou uma oportunidade, me encontre no [LinkedIn](https://www.linkedin.com/in/gabriel-justino-dev) ou escreva para [gabrieljustino.dev@outlook.com.br](mailto:gabrieljustino.dev@outlook.com.br).
+
+<sub>Terra da capa · NASA Earth Observatory, Blue Marble. Capturas do FIREWATCHER · equipe Astro Boys. Ícones das tecnologias · Skill Icons.</sub>
